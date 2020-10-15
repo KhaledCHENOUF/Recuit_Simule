@@ -13,6 +13,4 @@ Dans un premier temps, T étant généralement choisi très grand, beaucoup de s
 aléatoire de l'espace des solutions. Mais à mesure que la température baisse, la plupart des solutions augmentant l'énergie sont refusés, et l'algorithme se ramène à une amélioration itérative classique.
 A température intermédiaire, l'algorithme autorise de temps en temps des transformations qui dégradent la fonction objective. Il laisse ainsi une chance au système de s'extraire d'un minima local.
 Notons aussi que si la température est égale à 0, seules les solutions optimisant f sont acceptées. L'algorithme se comportera donc comme la méthode de la descente du gradient.
-1- Problème du voyageur de commerce
-Problématique
-Le recuit
+
